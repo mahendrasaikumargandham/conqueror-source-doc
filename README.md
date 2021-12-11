@@ -45,6 +45,7 @@
 <p><b>File System:</b></p>
 <p>Similar to Linux File System</p>
 <img src="https://github.com/mahendrasaikumargandham/conqueror-source-doc/blob/main/filesystem.png" width="800px" alt="" />
+<p><b>Main directories:</b></p>
 <ul>
   <li><b><p>/root</p></b></li>
   <li><b><p>/home</p></b></li>
@@ -52,7 +53,7 @@
   <li><b><p>/sbin</p></b></li>
   <li><b><p>/mnt</p></b></li>
   <li><b><p>/etc</p></b></li>
-  <li><b><p>/lib</p></b></li>
+<!--   <li><b><p>/lib</p></b></li> -->
   <li><b><p>/src</p></b></li>
 </ul>
 
@@ -70,6 +71,38 @@
 <details>
   <summary><b>2. /home</b></summary>
   <pre>
-    /home is the home directory for system users.
+    /home is the home directory for system users. /home contains all the system users data and directories. It has a seperate space in the operating system. It is the index page of the operating system.
   </pre>
 </details>
+<details>
+  <summary><b>3. /bin</b></summary>
+  <pre>
+    /bin contains all the executable commands of the system user. 
+  </pre>
+</details>
+<details>
+  <summary><b>4. /sbin</b></summary>
+  <pre>
+    /sbin is the directory which contains all the executable commands of root user. /sbin contains all the executable commands including /bin.
+  </pre>
+</details>
+<details>
+  <summary><b>5. /mnt</b></summary>
+  <pre>
+    /mnt directory contains all the partitions of the hard disk information. we can later edit the partition for futher use.
+  </pre>
+</details>
+<details>
+  <summary><b>6. /etc</b></summary>
+  <pre>
+    /etc is the directory which contains all the executable commands and sensitive information like passwords, DNS configurations etc.., If we delete the /etc directory operting system will delete soon.
+  </pre>
+</details>
+<details>
+  <summary><b>7. /src</b></summary>
+  <pre>
+    /src is the directory which contains all the source code of the operating system. the user space is designed completely in this directory.
+  </pre>
+</details>
+
+
