@@ -23,4 +23,7 @@
 <p><b>Architecture:</b></p>
 <img src="https://github.com/mahendrasaikumargandham/conqueror-source-doc/blob/main/mahendra.jpg" width="500px" alt="" />
 
+<p><b>File System:</b></p>
+<p>Similar to Linux File System</p>
+<img src="https://github.com/mahendrasaikumargandham/conqueror-source-doc/blob/main/filesystem.png" width="800px" alt="" />
 
