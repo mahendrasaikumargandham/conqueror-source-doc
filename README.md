@@ -13,3 +13,13 @@
   <li>Advance Voice Assistant with AI</li>
   <li>Next level AI Guide for individual User</li>
 </ul>
+
+<p><b>Layers:</b></p>
+<ul>
+  <li>User Space</li>
+  <li>Kernel Space</li>
+</ul>
+
+<p><b>Architecture:</b></p>
+
+
