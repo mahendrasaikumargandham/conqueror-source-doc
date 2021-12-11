@@ -21,5 +21,6 @@
 </ul>
 
 <p><b>Architecture:</b></p>
+<img src="https://github.com/mahendrasaikumargandham/conqueror-source-doc/blob/main/mahendra.jpg" alt="" />
 
 
